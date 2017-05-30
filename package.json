@@ -1,0 +1,50 @@
+{
+  "name": "eslint-config-sevencooks",
+  "version": "1.0.0",
+  "description": "SevenCooks' JavaScript Style Guide ",
+  "main": "base.js",
+  "scripts": {
+    "unused": "eslint-find-rules -u -n",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks.git"
+  },
+  "keywords": [
+    "eslint",
+    "SevenCooks",
+    "coding",
+    "rules",
+    "style"
+  ],
+  "contributors": [
+    {
+      "name": "Peerigon Team",
+      "email": "developers@peerigon.com"
+    },
+    {
+      "name": "Daniel Nehring",
+      "email": "daniel.nehring@sevencooks.com"
+    }
+  ],
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks/issues"
+  },
+  "homepage": "https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks#readme",
+  "peerDependencies": {
+    "eslint": "^3.19.0"
+  },
+  "dependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint-config-peerigon": "^10.1.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-jsdoc": "^3.1.0",
+    "eslint-plugin-react": "^7.0.1"
+  },
+  "devDependencies": {
+    "eslint-find-rules": "^1.14.3",
+    "standard-version": "^4.0.0"
+  }
+}
