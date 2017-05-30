@@ -1,4 +1,4 @@
-eslint-config-peerigon
+eslint-config-sevencooks
 ======================
 **[SevenCooks](https://sevencooks.com/) coding rules as [eslint](http://eslint.org/) config.**
 
