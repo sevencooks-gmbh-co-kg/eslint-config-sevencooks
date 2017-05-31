@@ -28,5 +28,6 @@ module.exports = {
         "no-constant-condition": ["error", { "checkLoops": false }],
         "quotes": [2, "single", "avoid-escape"],
         "jsdoc/require-description-complete-sentence": 0,
+        "func-style": ["error", "declaration", { "allowArrowFunctions": true }]
     }
 };
