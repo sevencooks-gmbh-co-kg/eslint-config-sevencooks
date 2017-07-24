@@ -2,10 +2,10 @@
 /* eslint-disable sort-keys */
 
 module.exports = {
-    extends: [
-        "standard-react"
-    ],
-    rules: {
-        /* eslint-enable sort-keys */
-    }
+  extends: [
+    "standard-react"
+  ],
+  rules: {
+    /* eslint-enable sort-keys */
+  }
 };

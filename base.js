@@ -2,25 +2,26 @@
 /* eslint-disable sort-keys */
 
 module.exports = {
-    parser: "babel-eslint",
-    env: {
-        es6: true
-    },
-    parserOptions: {
-        ecmaVersion: 6,
-        sourceType: "module",
-        ecmaFeatures: {
-            experimentalObjectRestSpread: true
-        }
-    },
-    plugins: [
-        "jsdoc",
-        "import"
-    ],
-    extends: [
-        "standard"
-    ],
-    rules: {
-        /* eslint-enable sort-keys */
+  parser: "babel-eslint",
+  env: {
+    es6: true
+  },
+  parserOptions: {
+    ecmaVersion: 6,
+    sourceType: "module",
+    ecmaFeatures: {
+      experimentalObjectRestSpread: true
     }
+  },
+  plugins: [
+    "jsdoc",
+    "import"
+  ],
+  extends: [
+    "eslint:recommended",
+    "standard"
+  ],
+  rules: {
+    /* eslint-enable sort-keys */
+  }
 };
