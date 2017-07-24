@@ -193,7 +193,7 @@ License
 
 Unlicense
 
-Based on the Peerigon ESLint config
+Based on the Standard ESLint config
 ------------------------------------------------------------------------
 
-[<img src="https://assets.peerigon.com/peerigon/logo/peerigon-logo-flat-spinat.png" width="150" />](https://github.com/peerigon/eslint-config-peerigon)
+[![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](http://standardjs.com)

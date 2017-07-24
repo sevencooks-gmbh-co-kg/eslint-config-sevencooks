@@ -18,15 +18,9 @@ module.exports = {
         "import"
     ],
     extends: [
-        "eslint:recommended",
-        "peerigon"
+        "standard"
     ],
     rules: {
         /* eslint-enable sort-keys */
-        "new-cap": [2, { "capIsNewExceptions": ["CSSModules"] }],
-        "no-console": 2,
-        "no-constant-condition": ["error", { "checkLoops": false }],
-        "quotes": [2, "single", "avoid-escape"],
-        "jsdoc/require-description-complete-sentence": 0,
     }
 };
