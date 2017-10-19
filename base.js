@@ -19,7 +19,8 @@ module.exports = {
   ],
   extends: [
     "eslint:recommended",
-    "standard"
+    "standard",
+    "prettier/standard"
   ],
   rules: {
     /* eslint-enable sort-keys */
