@@ -167,6 +167,36 @@ let a   = 1,          let   a   = 1,
 
 If I don't have to change a lot of lines, refactoring is more fun. As a nice side-effect, `git diff` also becomes more readable.
 
+---
+
+### Always use a trailing comma in a multiline list.
+
+It makes manipulating lists more comfortable. And git diffs cleaner.
+
+```js
+// Adding an item
+const obj = {         const obj = {
+  foo: true,            foo: true,
+  bar: 'baz',   >>      bar: 'baz',
+}                       hello: 'world', // only adding lien here
+                      }
+
+// only one changed line
+```
+
+VS
+
+```js
+// Adding an item
+const obj = {         const obj = {
+  foo: true,            foo: true,
+  bar: 'baz'    >>      bar: 'baz', // adding comma here
+}                       hello: 'world' // adding line here
+                      }
+
+// two changed lines
+```
+
 Recommendations
 ------------------------------------------------------------------------
 

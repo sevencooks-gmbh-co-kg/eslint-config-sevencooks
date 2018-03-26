@@ -4,9 +4,9 @@
 module.exports = {
   extends: [
     "standard-react",
-    "prettier/react"
+    "prettier/react",
   ],
   rules: {
     /* eslint-enable sort-keys */
-  }
+  },
 };
