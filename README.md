@@ -178,7 +178,7 @@ It makes manipulating lists more comfortable. And git diffs cleaner.
 const obj = {         const obj = {
   foo: true,            foo: true,
   bar: 'baz',   >>      bar: 'baz',
-}                       hello: 'world', // only adding lien here
+}                       hello: 'world', // only adding line here
                       }
 
 // only one changed line
@@ -194,7 +194,7 @@ const obj = {         const obj = {
 }                       hello: 'world' // adding line here
                       }
 
-// two changed lines
+// three changed lines
 ```
 
 Recommendations
