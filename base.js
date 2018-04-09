@@ -4,25 +4,32 @@
 module.exports = {
   parser: "babel-eslint",
   env: {
-    es6: true
+    es6: true,
   },
   parserOptions: {
     ecmaVersion: 6,
     sourceType: "module",
     ecmaFeatures: {
-      experimentalObjectRestSpread: true
-    }
+      experimentalObjectRestSpread: true,
+    },
   },
   plugins: [
     "jsdoc",
-    "import"
+    "import",
   ],
   extends: [
     "eslint:recommended",
     "standard",
-    "prettier/standard"
+    "prettier/standard",
   ],
   rules: {
     /* eslint-enable sort-keys */
-  }
+    "comma-dangle": ["error", {
+      arrays: "always-multiline",
+      objects: "always-multiline",
+      imports: "always-multiline",
+      exports: "always-multiline",
+      functions: "ignore",
+    }],
+  },
 };
