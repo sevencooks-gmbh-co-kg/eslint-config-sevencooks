@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.4.1"></a>
+## [1.4.1](https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks/compare/v1.4.0...v1.4.1) (2018-06-08)
+
+
+
 <a name="1.4.0"></a>
 # [1.4.0](https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks/compare/v1.2.0...v1.4.0) (2018-04-12)
 
