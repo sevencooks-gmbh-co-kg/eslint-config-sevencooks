@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-sevencooks",
-  "version": "1.4.1",
-  "description": "SevenCooks' JavaScript Style Guide ",
+  "version": "1.5.0",
+  "description": "SevenCooks' JavaScript Style Guide",
   "main": "base.js",
   "scripts": {
     "unused": "eslint-find-rules -u -n",
