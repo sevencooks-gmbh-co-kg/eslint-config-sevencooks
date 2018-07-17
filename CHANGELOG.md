@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.5.0"></a>
+# [1.5.0](https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks/compare/v1.4.1...v1.5.0) (2018-07-17)
+
+
+### Features
+
+* **base:** update ecmaVersion to 2018, remove deprecated options ([0f09f0b](https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks/commit/0f09f0b))
+* **core:** update version ([860c25a](https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks/commit/860c25a))
+
+
+### BREAKING CHANGES
+
+* **core:** uses eslint v5.1.0 now
+
+
+
 <a name="1.4.1"></a>
 ## [1.4.1](https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks/compare/v1.4.0...v1.4.1) (2018-06-08)
 
