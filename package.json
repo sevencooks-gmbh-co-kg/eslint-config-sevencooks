@@ -34,8 +34,8 @@
   },
   "homepage": "https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks#readme",
   "peerDependencies": {
-    "eslint": "^5.4.0",
-    "prettier": "^1.0.0"
+    "eslint": "^5.9.0",
+    "prettier": "^1.15.2",
   },
   "dependencies": {
     "babel-eslint": "^9.0.0",
@@ -50,9 +50,9 @@
     "eslint-plugin-standard": "^4.0.0"
   },
   "devDependencies": {
-    "eslint": "^5.4.0",
+    "eslint": "^5.9.0",
     "eslint-find-rules": "^3.3.1",
-    "prettier": "^1.14.2",
+    "prettier": "^1.15.2",
     "standard-version": "^4.4.0"
   }
 }
