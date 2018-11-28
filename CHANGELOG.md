@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.7.0"></a>
+# [1.7.0](https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks/compare/v1.6.0...v1.7.0) (2018-11-28)
+
+
+### Features
+
+* **core:** don't use npm with package-lock ([9614510](https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks/commit/9614510))
+* **core:** update dependecies ([cbdc2c8](https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks/commit/cbdc2c8))
+* **core:** updated dev dependencies ([c1e127e](https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks/commit/c1e127e))
+
+
+
 <a name="1.6.0"></a>
 # [1.6.0](https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks/compare/v1.5.0...v1.6.0) (2018-08-29)
 
