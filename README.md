@@ -4,7 +4,7 @@ eslint-config-sevencooks
 
 [![](https://img.shields.io/npm/v/eslint-config-sevencooks.svg)](https://www.npmjs.com/package/eslint-config-sevencooks)
 [![](https://img.shields.io/npm/dm/eslint-config-sevencooks.svg)](https://www.npmjs.com/package/eslint-config-sevencooks)
-[![Dependency Status](https://david-dm.org/smartfood-gmbh-co-kg/eslint-config-sevencooks.svg)](https://david-dm.org/smartfood-gmbh-co-kg/eslint-config-sevencooks?branch=master)
+[![Dependency Status](https://david-dm.org/sevencooks-gmbh-co-kg/eslint-config-sevencooks.svg)](https://david-dm.org/sevencooks-gmbh-co-kg/eslint-config-sevencooks?branch=master)
 
 Provided configs
 ------------------------------------------------------------------------

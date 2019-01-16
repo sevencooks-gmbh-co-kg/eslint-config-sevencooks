@@ -7,10 +7,6 @@
     "unused": "eslint-find-rules -u -n",
     "release": "standard-version"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks.git"
-  },
   "keywords": [
     "eslint",
     "SevenCooks",
@@ -28,11 +24,12 @@
       "email": "daniel.nehring@sevencooks.com"
     }
   ],
-  "license": "Unlicense",
+  "repository": "git@github.com:sevencooks-gmbh-co-kg/eslint-config-sevencooks.git",
   "bugs": {
-    "url": "https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks/issues"
+    "url": "https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks/issues"
   },
-  "homepage": "https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks#readme",
+  "homepage": "https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks#readme",
+  "license": "Unlicense",
   "peerDependencies": {
     "eslint": "^5.9.0",
     "prettier": "^1.15.2"
