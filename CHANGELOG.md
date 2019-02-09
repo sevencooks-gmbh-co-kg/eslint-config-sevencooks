@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.8.0"></a>
+# [1.8.0](https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks/compare/v1.7.0...v1.8.0) (2019-02-09)
+
+
+### Features
+
+* **core:** update all dependencies ([6c79180](https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks/commit/6c79180))
+* **react:** enable react hooks rules ([dc0cce8](https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks/commit/dc0cce8))
+
+
+
 <a name="1.7.0"></a>
 # [1.7.0](https://github.com/smartfood-gmbh-co-kg/eslint-config-sevencooks/compare/v1.6.0...v1.7.0) (2018-11-28)
 

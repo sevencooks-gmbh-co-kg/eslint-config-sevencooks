@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-sevencooks",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "SevenCooks' JavaScript Style Guide",
   "main": "base.js",
   "scripts": {
@@ -31,8 +31,8 @@
   "homepage": "https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks#readme",
   "license": "Unlicense",
   "peerDependencies": {
-    "eslint": "^5.9.0",
-    "prettier": "^1.15.2"
+    "eslint": "^5.13.0",
+    "prettier": "^1.16.4"
   },
   "dependencies": {
     "babel-eslint": "^10.0.1",
