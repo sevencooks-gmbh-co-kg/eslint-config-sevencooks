@@ -7,7 +7,7 @@ module.exports = {
     es6: true,
   },
   parserOptions: {
-    ecmaVersion: 2018,
+    ecmaVersion: 2019,
     sourceType: "module",
   },
   plugins: [
@@ -15,18 +15,9 @@ module.exports = {
     "import",
   ],
   extends: [
-    "eslint:recommended",
     "standard",
+    // This disables rules Prettier takes care of
+    "prettier",
     "prettier/standard",
   ],
-  rules: {
-    /* eslint-enable sort-keys */
-    "comma-dangle": ["error", {
-      arrays: "always-multiline",
-      objects: "always-multiline",
-      imports: "always-multiline",
-      exports: "always-multiline",
-      functions: "ignore",
-    }],
-  },
 };
