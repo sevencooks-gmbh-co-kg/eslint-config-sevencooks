@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.9.0"></a>
+# [1.9.0](https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks/compare/v1.8.0...v1.9.0) (2019-03-09)
+
+
+### Features
+
+* **base:** disable rules handled by prettier ([1256e14](https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks/commit/1256e14))
+* **react:** use more hooks rules ([a8e274b](https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks/commit/a8e274b))
+
+
+
 <a name="1.8.0"></a>
 # [1.8.0](https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks/compare/v1.7.0...v1.8.0) (2019-02-09)
 
