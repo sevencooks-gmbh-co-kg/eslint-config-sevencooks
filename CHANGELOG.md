@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.11.0](https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks/compare/v1.10.0...v1.11.0) (2019-08-27)
+
+
+### Features
+
+* **core:** update dependencies ([88e34d0](https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks/commit/88e34d0))
+
 ## [1.10.0](https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks/compare/v1.9.1...v1.10.0) (2019-06-26)
 
 
