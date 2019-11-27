@@ -31,24 +31,24 @@
   "homepage": "https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks#readme",
   "license": "Unlicense",
   "peerDependencies": {
-    "eslint": "^6.2.0"
+    "eslint": "6.7.1"
   },
   "dependencies": {
     "babel-eslint": "^10.0.3",
-    "eslint-config-prettier": "^6.1.0",
-    "eslint-config-standard": "^14.0.1",
-    "eslint-config-standard-react": "^9.0.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-jsdoc": "^15.8.3",
-    "eslint-plugin-node": "^9.1.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-react": "^7.14.3",
-    "eslint-plugin-react-hooks": "^2.0.1",
-    "eslint-plugin-standard": "^4.0.1"
+    "eslint-config-prettier": "6.7.0",
+    "eslint-config-standard": "14.1.0",
+    "eslint-config-standard-react": "9.2.0",
+    "eslint-plugin-import": "2.18.2",
+    "eslint-plugin-jsdoc": "18.1.5",
+    "eslint-plugin-node": "10.0.0",
+    "eslint-plugin-promise": "4.2.1",
+    "eslint-plugin-react": "7.16.0",
+    "eslint-plugin-react-hooks": "2.3.0",
+    "eslint-plugin-standard": "4.0.1"
   },
   "devDependencies": {
-    "eslint": "^6.2.2",
-    "eslint-find-rules": "^3.4.0",
-    "standard-version": "^7.0.0"
+    "eslint": "6.7.1",
+    "eslint-find-rules": "3.4.0",
+    "standard-version": "7.0.1"
   }
 }
