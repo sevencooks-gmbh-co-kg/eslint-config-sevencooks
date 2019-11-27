@@ -20,4 +20,7 @@ module.exports = {
     "prettier",
     "prettier/standard",
   ],
-};
+  rules: {
+    "no-console": "error",
+  },
+}
