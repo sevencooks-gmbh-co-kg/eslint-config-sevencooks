@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.12.0](https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks/compare/v1.11.0...v1.12.0) (2019-12-02)
+
+
+### Features
+
+* **base:** add no-console rule (again) ([#8](https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks/issues/8)) ([9139a17](https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks/commit/9139a173dbb9a9c812801de8537f875e03516579))
+
 ## [1.11.0](https://github.com/sevencooks-gmbh-co-kg/eslint-config-sevencooks/compare/v1.10.0...v1.11.0) (2019-08-27)
 
 
